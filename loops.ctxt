@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ start()
+comment1.params=number
+comment1.target=void\ checkPrime(int)
+comment2.params=
+comment2.target=void\ ignoreRussianJudge()
+comment3.params=contribution\ rate
+comment3.target=void\ printInvestmentTable(int,\ double)
+numComments=4
